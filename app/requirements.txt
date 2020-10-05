@@ -1,0 +1,4 @@
+pynsq==0.9.0
+fastapi==0.61.1
+python-socketio==4.6.0
+PyJWT==1.7.1
